@@ -1,1 +1,9 @@
-
+.App {
+  background-image: linear-gradient(
+    to bottom right,
+    rgba(252, 209, 209, 0.5),
+    rgba(236, 226, 225, 0.7),
+    rgba(211, 224, 220, 0.9),
+    rgba(174, 225, 225, 1)
+  );
+}
